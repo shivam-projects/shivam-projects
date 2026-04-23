@@ -12,7 +12,9 @@ Focused on clean architecture, performance optimization, and writing maintainabl
 - 🔧 Build robust APIs using Node.js & Express  
 - 🔐 Implement secure authentication (JWT, role-based access)  
 - 🗄️ Design efficient database schemas (MongoDB, MySQL)  
-- 🚀 Optimize performance for real-world production use  
+- ⚛️ Developed frontend interfaces using React.js & Next.js  
+- 📱 Worked on mobile features using React Native (previous experience)  
+- 🚀 Optimize performance for real-world production use
 
 ---
 
