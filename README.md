@@ -49,14 +49,36 @@ REST APIs, JWT Auth, Async/Await
 
 ## 🚀 Projects
 
+- 🔹 **Government Scheme Project (Ayush Department)** *(Production Work)*  
+  Contributed to backend development for managing scheme-related data and workflows  
+  Built APIs for handling user applications and data processing  
+  Worked on database operations and query optimization  
+  Collaborated on a real-world public service system *(code private)*  
+
+- 🔹 **HRMS (Human Resource Management System)** *(Production Project)*  
+  Worked on employee, leave & attendance management APIs  
+  Implemented secure authentication & role-based access  
+  Optimized database queries for handling large datasets  
+  Contributed to a production-level system *(code private)*  
+
 - 🔹 **Employee Management API**  
-  CRUD APIs with authentication & role-based access  
+  Developed CRUD APIs with authentication & role-based access  
+  Designed scalable backend structure using Node.js & Express  
 
 - 🔹 **Authentication System**  
-  Secure login/signup with JWT & validation  
+  Built a secure login/signup system using JWT  
+  Implemented validation, error handling & password security  
 
 - 🔹 **E-commerce Backend**  
-  Product, cart & order APIs with scalable structure  
+  Developed APIs for product, cart & order management  
+  Designed database schema and handled data relationships  
+
+- 🔹 **Frontend Applications (React / Next.js)**  
+  Built UI components and integrated backend APIs  
+  Worked on responsive design and API integration  
+
+- 🔹 **React Native (Previous Work)**  
+  Worked on mobile features and backend API integration  
 
 ---
 
