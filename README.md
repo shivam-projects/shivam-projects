@@ -1,16 +1,69 @@
-## Hi there 👋
+# 👋 Hi, I'm Shivam
 
-<!--
-**shivam-projects/shivam-projects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Backend Developer (Node.js)  
+🚀 2 years of experience
 
-Here are some ideas to get you started:
+I build scalable backend systems and REST APIs that solve real-world problems.  
+Focused on clean architecture, performance optimization, and writing maintainable code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⚡ What I Do
+- 🔧 Build robust APIs using Node.js & Express  
+- 🔐 Implement secure authentication (JWT, role-based access)  
+- 🗄️ Design efficient database schemas (MongoDB, MySQL)  
+- 🚀 Optimize performance for real-world production use  
+
+---
+
+## 🏢 Experience Highlight
+
+### HRMS (Human Resource Management System) *(Production Project)*
+- Worked on employee, leave & attendance management APIs  
+- Implemented secure authentication & authorization  
+- Optimized database queries for better performance  
+- Contributed to a real-world production system *(code private)*  
+
+---
+
+## 🛠️ Tech Stack
+
+**Backend:**  
+Node.js, Express.js  
+
+**Database:**  
+MongoDB, MySQL  
+
+**Core Concepts:**  
+REST APIs, JWT Auth, Async/Await  
+
+---
+
+## 🚀 Projects
+
+- 🔹 **Employee Management API**  
+  CRUD APIs with authentication & role-based access  
+
+- 🔹 **Authentication System**  
+  Secure login/signup with JWT & validation  
+
+- 🔹 **E-commerce Backend**  
+  Product, cart & order APIs with scalable structure  
+
+---
+
+## 💡 What I Focus On
+- Clean & maintainable backend code  
+- Performance optimization  
+- Real-world problem solving  
+
+---
+
+## 📫 Connect With Me
+- 💼 LinkedIn: www.linkedin.com/in/shivam-kumar-b89741232
+- 📧 Email: shivamsharma8902@gmail.com
+
+---
+
+## ⚡ Fun Fact
+I enjoy debugging more than coding — because that’s where real learning happens 😄
