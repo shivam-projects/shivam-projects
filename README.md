@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shivam
 
-💻 Backend Developer (Node.js)  
+💻 Full Stack Software Engineer
 🚀 2 years of experience
 
 I build scalable backend systems and REST APIs that solve real-world problems.  
@@ -31,11 +31,17 @@ Focused on clean architecture, performance optimization, and writing maintainabl
 **Backend:**  
 Node.js, Express.js  
 
+**Frontend (Working Experience):**  
+React.js, Next.js  
+
+**Mobile (Previous Experience):**  
+React Native
+
 **Database:**  
 MongoDB, MySQL  
 
 **Core Concepts:**  
-REST APIs, JWT Auth, Async/Await  
+REST APIs, JWT Auth, Async/Await 
 
 ---
 
